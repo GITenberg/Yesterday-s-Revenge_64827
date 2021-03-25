@@ -1,11 +1,16 @@
 _repo: Yesterday-s-Revenge_64827
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64827-h/images/cover.jpg
 creator:
   author:
     agent_name: Nichols, H. L.
     gutenberg_agent_id: '53071'
     url: http://www.gutenberg.org/2009/agents/53071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64827#Yesterday-s-Revenge
 gutenberg_issued: '2021-03-15'
 gutenberg_type: Text
 identifiers:
